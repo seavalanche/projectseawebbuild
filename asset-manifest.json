@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.189527ff.css",
+    "main.js": "/static/js/main.d43b792a.js",
+    "static/js/787.30de3784.chunk.js": "/static/js/787.30de3784.chunk.js",
+    "static/media/Introduction bg.png": "/static/media/Introduction bg.9dcb55ec2a39c7a56490.png",
+    "static/media/FootNav bg.png": "/static/media/FootNav bg.6d483bb4729e45017fbf.png",
+    "static/media/WelcomeSect.png": "/static/media/WelcomeSect.e9045405e6fe16768083.png",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
+    "static/media/InterTight-ExtraLightItalic.ttf": "/static/media/InterTight-ExtraLightItalic.3c6ce928529a7f898efe.ttf",
+    "static/media/D11 - Commission Banner v2_3by1 1.png": "/static/media/D11 - Commission Banner v2_3by1 1.7a76fb2c16c38041fea6.png",
+    "static/media/Lora-VariableFont_wght.ttf": "/static/media/Lora-VariableFont_wght.3a653a05dd1cd5925a30.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/by Seava - 20220501 (2) 3.png": "/static/media/by Seava - 20220501 (2) 3.febd5e2137f45cda70a3.png",
+    "static/media/2023 - 18 - Sprigatito 1.png": "/static/media/2023 - 18 - Sprigatito 1.b37847e5d9aa4d89d9c9.png",
+    "static/media/Baskervville-Regular.ttf": "/static/media/Baskervville-Regular.fbfdbd5a668fb566697a.ttf",
+    "static/media/S47 - Vesnea.png": "/static/media/S47 - Vesnea.21e8333d15907569562f.png",
+    "static/media/small Seava and Vesnea.png": "/static/media/small Seava and Vesnea.3c8e58a25d438ea5979b.png",
+    "static/media/Vesnea.png": "/static/media/Vesnea.9f55c79563afd6369674.png",
+    "static/media/Timelinehelper.png": "/static/media/Timelinehelper.c5a3c65e7724b9aff520.png",
+    "static/media/Seava.png": "/static/media/Seava.304da7899d1f1f8f2bab.png",
+    "index.html": "/index.html",
+    "main.189527ff.css.map": "/static/css/main.189527ff.css.map",
+    "main.d43b792a.js.map": "/static/js/main.d43b792a.js.map",
+    "787.30de3784.chunk.js.map": "/static/js/787.30de3784.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.189527ff.css",
+    "static/js/main.d43b792a.js"
+  ]
+}
